@@ -1,0 +1,16 @@
+﻿body {
+    display: flex;
+    align-items: center;
+    padding: 40px 0 40px 0;
+    background-color: #ffffff;
+
+}
+html, body {
+    height: 100%;
+}
+.login-form{
+    width:320px;
+    margin:auto;
+
+    
+}
